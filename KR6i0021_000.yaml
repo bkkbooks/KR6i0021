@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0021/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說不思議功德諸佛所護念經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0445.xml
+    old_id: T14n0445
+hash: sha256:296c62a5435e15ce8d186c7e2564e41e5b608103488171b9ad67eb279f20ab2a
